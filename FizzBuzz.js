@@ -16,3 +16,6 @@ function  FizzBuzz(){
 FizzBuzz()
 FizzBuzz()
 FizzBuzz()
+
+// this could also be done by making an output array and then appending
+// values to that array depending on count.
